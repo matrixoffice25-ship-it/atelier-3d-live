@@ -1,0 +1,348 @@
+{
+  "tool": "built-in image_gen",
+  "results": [
+    {
+      "id": "hall-golden-day",
+      "path": "banks/hall-golden-day.png"
+    },
+    {
+      "id": "hall-midnight-day2",
+      "path": "banks/hall-midnight-day2.png",
+      "saved": true
+    },
+    {
+      "id": "salon-baroque-night",
+      "path": "banks/salon-baroque-night.png",
+      "saved": true
+    },
+    {
+      "id": "pier-harbour-day",
+      "path": "banks/pier-harbour-day.png",
+      "saved": true
+    },
+    {
+      "id": "pier-sunset-night",
+      "path": "banks/pier-sunset-night.png",
+      "saved": true
+    },
+    {
+      "id": "glacier-day",
+      "path": "banks/glacier-day.png",
+      "saved": true
+    },
+    {
+      "id": "glacier-aurora-night",
+      "path": "banks/glacier-aurora-night.png",
+      "saved": true
+    },
+    {
+      "id": "mountain-alpine-day",
+      "path": "banks/mountain-alpine-day.png",
+      "saved": true
+    },
+    {
+      "id": "rooftop-city-dusk",
+      "path": "banks/rooftop-city-dusk.png",
+      "saved": true
+    },
+    {
+      "id": "rooftop-neon-night",
+      "path": "banks/rooftop-neon-night.png",
+      "saved": true
+    },
+    {
+      "id": "street-tokyo-neon-night",
+      "path": "banks/street-tokyo-neon-night.png",
+      "saved": true
+    },
+    {
+      "id": "street-paris-haussmann-dusk",
+      "path": "banks/street-paris-haussmann-dusk.png",
+      "saved": true
+    },
+    {
+      "id": "gallery-white-cube-day",
+      "path": "banks/gallery-white-cube-day.png",
+      "saved": true
+    },
+    {
+      "id": "garden-persian-day",
+      "path": "banks/garden-persian-day.png",
+      "saved": true
+    },
+    {
+      "id": "garden-bamboo-day2",
+      "path": "banks/garden-bamboo-day2.png",
+      "saved": true
+    },
+    {
+      "id": "forest-redwood-mist-day",
+      "path": "banks/forest-redwood-mist-day.png",
+      "saved": true
+    },
+    {
+      "id": "desert-dunes-dusk",
+      "path": "banks/desert-dunes-dusk.png",
+      "saved": true
+    },
+    {
+      "id": "desert-ubud-rice-day2",
+      "path": "banks/desert-ubud-rice-day2.png",
+      "saved": true
+    },
+    {
+      "id": "bridge-golden-night2",
+      "path": "banks/bridge-golden-night2.png",
+      "saved": true
+    },
+    {
+      "id": "market-marrakech-day",
+      "path": "banks/market-marrakech-day.png",
+      "saved": true
+    },
+    {
+      "id": "galaxy-obsidian-night",
+      "path": "banks/galaxy-obsidian-night.png",
+      "saved": true
+    },
+    {
+      "id": "undersea-pearl-depth",
+      "path": "banks/undersea-pearl-depth.png",
+      "saved": true
+    }
+  ],
+  "promptBase": "Use case: photorealistic-natural. Generate ONE 16:9 landscape hyper-real high-end editorial photograph of an EMPTY fashion runway venue for Atelier 3D. Full-frame camera, 85mm lens, f/2.8, shallow depth of field, subtle film grain, atmospheric haze in light beams, authentic natural textures and reflections. Composition: centered one-point perspective looking down runway from its far end, camera at standing model-eye height, model-height eye line. Broad runway strip fills lower third cleanly, recedes to central horizon/vanishing point. Runway must be FLAT, FIRM, SOLID, SMOOTH, safe flooring for heels, uninterrupted, no obstructions, steps, gaps, water or void on the walking surface; surface blends with scene palette and lighting. EMPTY: no people or models anywhere. No text, logos, watermark. Any signage abstract unreadable shapes only. No cartoon, CGI look, plastic textures, warped geometry. Scene: ",
+  "motifs": [
+    [
+      "hall-midnight-day2",
+      "Same grand fashion-week stone hall at midnight: arched windows, chandeliers, empty dark chair rows. Glossy black runway with white edges, cool white spotlights, deep blue-black walls, ice-blue floor reflections."
+    ],
+    [
+      "salon-baroque-night",
+      "Ornate baroque salon: candle-glow chandeliers, gilded mirrors, polished parquet runway, burgundy drapes."
+    ],
+    [
+      "pier-harbour-day",
+      "Harbour boardwalk: weathered smooth wood deck runway, teal sea and sailing masts behind, rope rails, gulls in sky, soft morning light."
+    ],
+    [
+      "pier-sunset-night",
+      "Harbour pier at night: smooth weathered wood runway, lantern lights along rope rails, dark water reflections, purple-dusk sky, warm boards."
+    ],
+    [
+      "glacier-day",
+      "Arctic ice-plain runway: polished swept-ice strip, snow banks, jagged glacier wall, blue crevasses outside walk, pale low sun, polar deep-blue sky."
+    ],
+    [
+      "glacier-aurora-night",
+      "Glacier runway at night under full green/violet AURORA, firm swept ice gleaming, stars, headlamp glow strips along walk."
+    ],
+    [
+      "mountain-alpine-day",
+      "Alpine plateau runway: smooth flush stone-flagged walk, snow peaks behind, pine forests dropping away, thin cloud sea below."
+    ],
+    [
+      "rooftop-city-dusk",
+      "Skyscraper rooftop runway at dusk: dark glass deck, city towers glittering behind, rooftop pools beside walk reflecting last orange light on glass facades."
+    ],
+    [
+      "rooftop-neon-night",
+      "Rooftop in neon night: skyline wall of lit windows, purple sky, runway dark glass deck with edge LEDs."
+    ],
+    [
+      "street-tokyo-neon-night",
+      "Tokyo street runway in night rain: wet reflective firm asphalt strip with white edge glow lines, dense abstract neon signage walls cyan/pink/red, steam vents off path, puddle reflections, lamp posts, faint stars. No readable signage."
+    ],
+    [
+      "street-paris-haussmann-dusk",
+      "Haussmann boulevard runway at dusk: zinc-blue sky, cream stone facades, warm street lamps, chalk-white pavement strip, empty cafe terraces darkened behind railings."
+    ],
+    [
+      "gallery-white-cube-day",
+      "Minimal museum gallery: white cube space, polished pale-concrete runway, skylight beams, single dramatic sculpture shadow away from walk, empty black bench rows."
+    ],
+    [
+      "garden-persian-day",
+      "Persian water garden: tiled water-channel runway edges, orange trees, rose beds, pale marble solid walk, pavilion behind, bright noon."
+    ],
+    [
+      "garden-bamboo-day2",
+      "Bamboo grove catwalk: packed earth-and-stone firm smooth path, tall green bamboo walls, dappled light, stone lanterns beside walk, mist."
+    ],
+    [
+      "forest-redwood-mist-day",
+      "Redwood forest runway: firm smoothly compacted bark-and-stone strip path, colossal trunks, god-rays through mist, ferns beside path, soft green palette."
+    ],
+    [
+      "desert-dunes-dusk",
+      "Desert dune runway at dusk: swept-flat compacted firm sand strip on a dune crest, amber sky, sandstone buttes, torch bowls beside walk, wind-rippled grains outside smooth strip, dust haze."
+    ],
+    [
+      "desert-ubud-rice-day2",
+      "Terraced rice-field valley runway: firm smooth bamboo-deck walkway over terraces, jungled valley, morning fog bank, dramatic green palette."
+    ],
+    [
+      "bridge-golden-night2",
+      "Golden-gate-esque suspension bridge deck runway at night: steel girder silhouettes, cable lights receding, red-lit towers behind fog, firm smooth steel deck walk."
+    ],
+    [
+      "market-marrakech-day",
+      "Marrakech souk courtyard: smooth flush clay-tile firm runway walk, lantern strings, spice-sack stalls darkened beside walk, mint-green and terracotta palette, high sun."
+    ],
+    [
+      "galaxy-obsidian-night",
+      "GALAXY: firm MIRRORED OBSIDIAN runway deck floating in deep space, star fields and two spiral nebulae behind and below, distant galaxies, violet-gold rim lights along catwalk edges, deck reflection holding nebulae. Firm flawless walkable black glass; thick real solid platform, never void on walk. Photoreal cinematic practical-set material realism."
+    ],
+    [
+      "undersea-pearl-depth",
+      "UNDER THE SEA: firm HEX-GLASS catwalk on seabed floor, giant pearl-inlaid floor panels, schools of glowing fish streaming around path, sunken marble columns beside walk, god-rays of cyan light from surface far above, gentle bubbles rising, blue-teal palette. Solid flush walkable floor platform, not water as runway. Photoreal underwater photography."
+    ]
+  ],
+  "visualNotes": [
+    "rooftop-city-dusk: runway reads as polished stone rather than dark glass.",
+    "undersea-pearl-depth: floor panels appear rounded rather than hexagonal; steps visible at distant end.",
+    "galaxy-obsidian-night: architectural framing makes setting read as a space venue rather than an isolated floating deck."
+  ],
+  "regenerations": [
+    {
+      "id": "regen-nochairs-v2",
+      "timestamp": "2026-10-11T21:53:10.840Z",
+      "tool": "built-in image_gen",
+      "files": [
+        "hall-golden-day.png",
+        "hall-midnight-day2.png",
+        "salon-baroque-night.png",
+        "pier-harbour-day.png",
+        "pier-sunset-night.png",
+        "glacier-day.png",
+        "glacier-aurora-night.png",
+        "mountain-alpine-day.png",
+        "rooftop-city-dusk.png",
+        "rooftop-neon-night.png",
+        "street-paris-haussmann-dusk.png",
+        "street-tokyo-neon-night.png",
+        "gallery-white-cube-day.png",
+        "garden-persian-day.png",
+        "garden-bamboo-day2.png",
+        "forest-redwood-mist-day.png",
+        "desert-dunes-dusk.png",
+        "desert-ubud-rice-day2.png",
+        "bridge-golden-night2.png",
+        "market-marrakech-day.png",
+        "galaxy-obsidian-night.png",
+        "undersea-pearl-depth.png"
+      ],
+      "promptBase": "Use case: photorealistic-natural. Generate ONE 1672x941 minimum (or 2048x1152), 16:9 landscape high-end editorial photograph for a runway backdrop. Real photographic aesthetic, plausible materials, natural light logic, authentic textures and reflections. Broad FIRM FLAT SOLID SMOOTH WALKABLE heels-safe strip fills lower foreground and runs INTO distance in centered one-point perspective, vanishing point inside frame. Continuous unobstructed floor, no steps, holes, open joints or water on walking surface. ABSOLUTE BANS: NO chairs, seats, benches, seating rows, audience, crowds, spectators, humans, models, mannequins, human statues, human pictures, rope-line guests or VIP benches ANYWHERE, including reflections and balconies. Entire venue empty; side areas only open floor, plants, mirrors or lights. NO text, logos, watermarks. App adds model live separately. Scene: ",
+      "motifs": [
+        [
+          "hall-golden-day",
+          "Gilded salon day, cream-gold columns, glossy marble strip."
+        ],
+        [
+          "hall-midnight-day2",
+          "Midnight ballroom, warm candle tones and chandeliers, glossy marble strip."
+        ],
+        [
+          "salon-baroque-night",
+          "Baroque opera venue at night, empty gilded balconies, red velvet walls, flat black carpet strip leading to a lit stage level with the strip. Entire auditorium is empty standing-room floor with zero seats."
+        ],
+        [
+          "pier-harbour-day",
+          "Harbour pier daytime, water and distant boats, smooth flush wood-deck strip."
+        ],
+        [
+          "pier-sunset-night",
+          "Harbour pier at sunset/dusk, smooth wood deck strip with steel edge lights, water reflections."
+        ],
+        [
+          "glacier-day",
+          "Glacier plain day, solid smooth ICE strip walkway, blue ice cliffs."
+        ],
+        [
+          "glacier-aurora-night",
+          "Glacier night with aurora, glowing solid smooth ice walkway."
+        ],
+        [
+          "mountain-alpine-day",
+          "Alpine pass day, smooth flush stone-slab strip, peaks behind."
+        ],
+        [
+          "rooftop-city-dusk",
+          "Rooftop dusk, rain-wet solid deck strip, city towers behind."
+        ],
+        [
+          "rooftop-neon-night",
+          "Rooftop night neon, city glow reflected on smooth solid deck strip."
+        ],
+        [
+          "street-paris-haussmann-dusk",
+          "Paris Haussmann street dusk, cobbled sides and smooth marble street strip, empty facades."
+        ],
+        [
+          "street-tokyo-neon-night",
+          "Tokyo Shinjuku night, empty wet neon alley, glossy smooth asphalt strip. Neon light bars and blank glowing panels only, no letters or signage."
+        ],
+        [
+          "gallery-white-cube-day",
+          "White-cube gallery day, polished concrete strip, pure white walls and skylight, unfurnished."
+        ],
+        [
+          "garden-persian-day",
+          "Persian garden day, smooth flush tile walkway between cypress trees."
+        ],
+        [
+          "garden-bamboo-day2",
+          "Bamboo grove day, broad stepping-stone walkway made of large smooth flush tightly adjoining slabs with closed joints, no gaps."
+        ],
+        [
+          "forest-redwood-mist-day",
+          "Redwood forest mist day, earth beside a smooth flush wood-plank path strip."
+        ],
+        [
+          "desert-dunes-dusk",
+          "Desert dunes dusk, polished solid sandstone causeway strip through dunes."
+        ],
+        [
+          "desert-ubud-rice-day2",
+          "Ubud rice terraces day, smooth flat solid bamboo walkway strip, tightly joined boards with no gaps."
+        ],
+        [
+          "bridge-golden-night2",
+          "Golden Gate suspension bridge night, smooth solid steel deck walkway, red towers and cables."
+        ],
+        [
+          "market-marrakech-day",
+          "Marrakech riad market day, smooth tiled passage strip, empty unattended shuttered stalls, terracotta walls."
+        ],
+        [
+          "galaxy-obsidian-night",
+          "Deep space: mirrored obsidian runway floating freely in stars and nebulae, violet-gold edge lights. Solid thick glossy black deck. Photographic practical-set material realism and natural optical starfield, not a drawing."
+        ],
+        [
+          "undersea-pearl-depth",
+          "Seabed: smooth flush hexagonal-glass pearl catwalk, glowing fish streams beside it, underwater god-rays. Solid level contiguous glass floor panels inlaid with pearl; no stairs. Photoreal underwater photography."
+        ]
+      ],
+      "corrections": [
+        "salon: floral/geometric decoration only, no human figures; level black carpet to stage.",
+        "Ubud: flat laminated bamboo floorboards, no round bamboo poles."
+      ],
+      "galaxyRefinement": "Single solitary floating mirrored obsidian slab; no architecture, side ledges or platforms; violet-gold flush edge lights, starfield and nebulae.",
+      "validation": {
+        "dimensions": "22 files at 1672x941",
+        "runwayValidator": "PASS",
+        "manifest": "104 unique scene IDs; ?v=b2",
+        "visualReview": {
+          "source": "HTTP http://localhost:3359/banks/<file>?v=b2; downloaded bytes match banks",
+          "files": [
+            "hall-golden-day.png",
+            "street-tokyo-neon-night.png",
+            "galaxy-obsidian-night.png"
+          ],
+          "result": "PASS: empty of people and seating, continuous floor with in-frame vanishing point",
+          "browserUI": "Unavailable; reviewed server-fetched image files directly"
+        }
+      }
+    }
+  ]
+}
