@@ -1,0 +1,762 @@
+[
+ {
+  "id": "black-box",
+  "name": "Black Box Show Space",
+  "file": "black-box.jpg",
+  "group": "couture",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "champagne-hall",
+  "name": "Champagne Ballroom",
+  "file": "champagne-hall.jpg",
+  "group": "couture",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "mirror-hall",
+  "name": "Hall of Mirrors",
+  "file": "mirror-hall.jpg",
+  "group": "couture",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "ivory-salon",
+  "name": "Ivory Couture Salon",
+  "file": "ivory-salon.jpg",
+  "group": "couture",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "velvet-curtain",
+  "name": "Red Velvet Stage",
+  "file": "velvet-curtain.jpg",
+  "group": "couture",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "versailles-garden",
+  "name": "Versailles Parterre",
+  "file": "versailles-garden.jpg",
+  "group": "garden",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "white-box",
+  "name": "White Infinity Space",
+  "file": "white-box.jpg",
+  "group": "couture",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "light-tunnel",
+  "name": "White Light Tunnel",
+  "file": "light-tunnel.jpg",
+  "group": "couture",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "library-hall",
+  "name": "Grand Library",
+  "file": "library-hall.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "angkor",
+  "name": "Jungle Temple",
+  "file": "angkor.jpg",
+  "group": "palace",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "alhambra",
+  "name": "Moorish Courtyard",
+  "file": "alhambra.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "taj-garden",
+  "name": "Mughal Garden",
+  "file": "taj-garden.jpg",
+  "group": "palace",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "greek-temple",
+  "name": "Temple on the Sea",
+  "file": "greek-temple.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "kyoto-gates",
+  "name": "Thousand Red Gates",
+  "file": "kyoto-gates.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "venice-palazzo",
+  "name": "Venetian Palazzo",
+  "file": "venice-palazzo.jpg",
+  "group": "palace",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "own-desert-dunes",
+  "name": "Desert Dunes",
+  "file": "own-desert-dunes.jpg",
+  "group": "palace",
+  "time": "dusk",
+  "light": "warm"
+ },
+ {
+  "id": "stair-cascade",
+  "name": "Spiral Stair Hall",
+  "file": "stair-cascade.jpg",
+  "group": "modern",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "cherry-avenue",
+  "name": "Cherry Blossom Avenue",
+  "file": "cherry-avenue.jpg",
+  "group": "garden",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "dark-gallery",
+  "name": "Dark Gallery",
+  "file": "dark-gallery.jpg",
+  "group": "gallery",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "mirror-room",
+  "name": "Infinity Mirror Room",
+  "file": "mirror-room.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "natural-history",
+  "name": "Natural History Hall",
+  "file": "natural-history.jpg",
+  "group": "gallery",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "rose-garden",
+  "name": "Rose Pergola",
+  "file": "rose-garden.jpg",
+  "group": "garden",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "sculpture-hall",
+  "name": "Sculpture Hall",
+  "file": "sculpture-hall.jpg",
+  "group": "gallery",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "tapestry-hall",
+  "name": "Tapestry Hall",
+  "file": "tapestry-hall.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "white-cube",
+  "name": "White Cube Gallery",
+  "file": "white-cube.jpg",
+  "group": "gallery",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "bamboo",
+  "name": "Bamboo Grove",
+  "file": "bamboo.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "lavender",
+  "name": "Lavender Fields",
+  "file": "lavender.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "redwoods",
+  "name": "Redwood Forest",
+  "file": "redwoods.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "sunflowers",
+  "name": "Sunflower Field",
+  "file": "sunflowers.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "tulips",
+  "name": "Tulip Fields",
+  "file": "tulips.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "orangery",
+  "name": "Victorian Glasshouse",
+  "file": "orangery.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "birch",
+  "name": "White Birch Forest",
+  "file": "birch.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "wisteria",
+  "name": "Wisteria Tunnel",
+  "file": "wisteria.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "alpine-lake",
+  "name": "Alpine Lake",
+  "file": "alpine-lake.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "aurora-ice",
+  "name": "Aurora over Ice",
+  "file": "aurora-ice.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "glacier",
+  "name": "Glacier Ice",
+  "file": "glacier.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "ice-cave",
+  "name": "Ice Cave",
+  "file": "ice-cave.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "fjord",
+  "name": "Norwegian Fjord",
+  "file": "fjord.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "waterfall",
+  "name": "Rainforest Waterfall",
+  "file": "waterfall.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "dunes",
+  "name": "Sahara Dunes",
+  "file": "dunes.jpg",
+  "group": "desert",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "volcano",
+  "name": "Volcanic Black Sand",
+  "file": "volcano.jpg",
+  "group": "nature",
+  "time": "dusk",
+  "light": "warm"
+ },
+ {
+  "id": "amalfi",
+  "name": "Amalfi Coast",
+  "file": "amalfi.jpg",
+  "group": "water",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "oasis",
+  "name": "Desert Oasis",
+  "file": "oasis.jpg",
+  "group": "desert",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "monument",
+  "name": "Monument Valley",
+  "file": "monument.jpg",
+  "group": "desert",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "maldives",
+  "name": "Overwater Jetty",
+  "file": "maldives.jpg",
+  "group": "modern",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "canyon",
+  "name": "Red Canyon",
+  "file": "canyon.jpg",
+  "group": "desert",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "petra",
+  "name": "Rose City Canyon",
+  "file": "petra.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "salt-flats",
+  "name": "Salt Flats Mirror",
+  "file": "salt-flats.jpg",
+  "group": "desert",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "santorini",
+  "name": "Santorini Terrace",
+  "file": "santorini.jpg",
+  "group": "modern",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "art-deco-pool",
+  "name": "Art Deco Pool",
+  "file": "art-deco-pool.jpg",
+  "group": "palace",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "coral",
+  "name": "Coral Reef",
+  "file": "coral.jpg",
+  "group": "under",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "infinity-pool",
+  "name": "Infinity Pool",
+  "file": "infinity-pool.jpg",
+  "group": "water",
+  "time": "dusk",
+  "light": "warm"
+ },
+ {
+  "id": "kelp",
+  "name": "Kelp Forest",
+  "file": "kelp.jpg",
+  "group": "under",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "lake-como",
+  "name": "Lake Villa",
+  "file": "lake-como.jpg",
+  "group": "water",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "harbour",
+  "name": "Riviera Harbour",
+  "file": "harbour.jpg",
+  "group": "water",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "atlantis",
+  "name": "Sunken Palace",
+  "file": "atlantis.jpg",
+  "group": "under",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "venice-canal",
+  "name": "Venice at Dawn",
+  "file": "venice-canal.jpg",
+  "group": "water",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "jelly",
+  "name": "Jellyfish Deep",
+  "file": "jelly.jpg",
+  "group": "under",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "london-mews",
+  "name": "London Mews",
+  "file": "london-mews.jpg",
+  "group": "city",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "milan-galleria",
+  "name": "Milan Arcade",
+  "file": "milan-galleria.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "new-york",
+  "name": "New York Avenue",
+  "file": "new-york.jpg",
+  "group": "modern",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "pearl-cave",
+  "name": "Pearl Grotto",
+  "file": "pearl-cave.jpg",
+  "group": "under",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "own-rice-terraces",
+  "name": "Rice Terraces",
+  "file": "own-rice-terraces.jpg",
+  "group": "nature",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "shipwreck",
+  "name": "Shipwreck",
+  "file": "shipwreck.jpg",
+  "group": "under",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "tokyo-crossing",
+  "name": "Tokyo Night Street",
+  "file": "tokyo-crossing.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "candle-hall",
+  "name": "Candle Hall",
+  "file": "candle-hall.jpg",
+  "group": "palace",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "havana",
+  "name": "Havana Street",
+  "file": "havana.jpg",
+  "group": "city",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "lantern-festival",
+  "name": "Lantern Night",
+  "file": "lantern-festival.jpg",
+  "group": "night",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "laser-hall",
+  "name": "Laser Hall",
+  "file": "laser-hall.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "marrakech",
+  "name": "Marrakech Riad",
+  "file": "marrakech.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "disco",
+  "name": "Mirror Ball Hall",
+  "file": "disco.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "neon-alley",
+  "name": "Neon Alley",
+  "file": "neon-alley.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "dubai-rooftop",
+  "name": "Sky Rooftop",
+  "file": "dubai-rooftop.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "clouds",
+  "name": "Above the Clouds",
+  "file": "clouds.jpg",
+  "group": "space",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "fireworks",
+  "name": "Fireworks Terrace",
+  "file": "fireworks.jpg",
+  "group": "night",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "led-tunnel",
+  "name": "Light Wall Corridor",
+  "file": "led-tunnel.jpg",
+  "group": "modern",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "mars",
+  "name": "Mars Plain",
+  "file": "mars.jpg",
+  "group": "space",
+  "time": "dusk",
+  "light": "warm"
+ },
+ {
+  "id": "galaxy-mirror",
+  "name": "Milky Way Mirror",
+  "file": "galaxy-mirror.jpg",
+  "group": "space",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "moon",
+  "name": "Moon Surface",
+  "file": "moon.jpg",
+  "group": "space",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "nebula",
+  "name": "Nebula Walkway",
+  "file": "nebula.jpg",
+  "group": "space",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "saturn",
+  "name": "Ring Planet View",
+  "file": "saturn.jpg",
+  "group": "space",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "autumn",
+  "name": "Autumn Avenue",
+  "file": "autumn.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "crystal-cave",
+  "name": "Crystal Cavern",
+  "file": "crystal-cave.jpg",
+  "group": "dream",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "diwali",
+  "name": "Festival of Lights",
+  "file": "diwali.jpg",
+  "group": "season",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "floating-islands",
+  "name": "Floating Islands",
+  "file": "floating-islands.jpg",
+  "group": "dream",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "lunar",
+  "name": "Lunar New Year",
+  "file": "lunar.jpg",
+  "group": "season",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "spring-meadow",
+  "name": "Spring Meadow",
+  "file": "spring-meadow.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "christmas",
+  "name": "Winter Lights",
+  "file": "christmas.jpg",
+  "group": "season",
+  "time": "night",
+  "light": "showcase"
+ },
+ {
+  "id": "winter-palace",
+  "name": "Winter Palace Snow",
+  "file": "winter-palace.jpg",
+  "group": "palace",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "hangar",
+  "name": "Aircraft Hangar",
+  "file": "hangar.jpg",
+  "group": "modern",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "butterfly",
+  "name": "Butterfly Garden",
+  "file": "butterfly.jpg",
+  "group": "nature",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "cloud-palace",
+  "name": "Cloud Palace",
+  "file": "cloud-palace.jpg",
+  "group": "dream",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "train-station",
+  "name": "Iron Train Station",
+  "file": "train-station.jpg",
+  "group": "industrial",
+  "time": "dawn",
+  "light": "daylight"
+ },
+ {
+  "id": "warehouse",
+  "name": "Loft Warehouse",
+  "file": "warehouse.jpg",
+  "group": "industrial",
+  "time": "day",
+  "light": "daylight"
+ },
+ {
+  "id": "power-station",
+  "name": "Old Power Station",
+  "file": "power-station.jpg",
+  "group": "industrial",
+  "time": "day",
+  "light": "daylight"
+ }
+]
