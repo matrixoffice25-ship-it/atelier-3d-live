@@ -1,0 +1,406 @@
+{
+"angkor": {
+"bw": 0.45,
+"bx": 0.51,
+"vx": 0.5,
+"vy": 0.53
+},
+"art-deco-pool": {
+"bw": 0.2,
+"bx": 0.5,
+"hidden": true,
+"vx": 0.5,
+"vy": 0.5,
+"why": "strip next to water, unclear edge"
+},
+"atlantis": {
+"bw": 0.22,
+"bx": 0.47,
+"vx": 0.47,
+"vy": 0.5
+},
+"aurora-ice": {
+"bw": 0.5,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.46
+},
+"bamboo": {
+"bw": 0.47,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.51
+},
+"black-box": {
+"bw": 0.2,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.6
+},
+"butterfly": {
+"bw": 0.33,
+"bx": 0.49,
+"vx": 0.52,
+"vy": 0.54
+},
+"candle-hall": {
+"bw": 0.2,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.55
+},
+"cherry-avenue": {
+"bw": 0.21,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.47
+},
+"christmas": {
+"bw": 0.27,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.5
+},
+"coral": {
+"bw": 0.28,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.45
+},
+"dark-gallery": {
+"bw": 0.2,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.47
+},
+"desert-dunes-dusk": {
+"bw": 0.5,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.43
+},
+"disco": {
+"bw": 0.27,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.6
+},
+"dubai-rooftop": {
+"bw": 0.24,
+"bx": 0.46,
+"vx": 0.49,
+"vy": 0.55
+},
+"dunes": {
+"bw": 0.45,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.35
+},
+"fireworks": {
+"bw": 0.22,
+"bx": 0.52,
+"vx": 0.5,
+"vy": 0.55
+},
+"fjord": {
+"bw": 0.24,
+"bx": 0.55,
+"vx": 0.54,
+"vy": 0.52
+},
+"floating-islands": {
+"bw": 0.36,
+"bx": 0.48,
+"vx": 0.52,
+"vy": 0.5
+},
+"forest-redwood-mist-day": {
+"bw": 0.42,
+"bx": 0.52,
+"vx": 0.51,
+"vy": 0.55
+},
+"gallery-white-cube-day": {
+"bw": 0.3,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.52
+},
+"garden-bamboo-day2": {
+"bw": 0.38,
+"bx": 0.48,
+"vx": 0.5,
+"vy": 0.5
+},
+"garden-persian-day": {
+"bw": 0.42,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.48
+},
+"glacier-aurora-night": {
+"bw": 0.5,
+"bx": 0.53,
+"vx": 0.5,
+"vy": 0.48
+},
+"glacier-day": {
+"bw": 0.5,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.46
+},
+"hall-golden-day": {
+"bw": 0.47,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.47
+},
+"hall-midnight-day2": {
+"bw": 0.43,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.47
+},
+"hangar": {
+"bw": 0.23,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.6
+},
+"harbour": {
+"bw": 0.5,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.5
+},
+"ice-cave": {
+"bw": 0.3,
+"bx": 0.5,
+"vx": 0.52,
+"vy": 0.5
+},
+"jelly": {
+"bw": 0.2,
+"bx": 0.5,
+"hidden": true,
+"vx": 0.5,
+"vy": 0.5,
+"why": "seat rows in the picture"
+},
+"kelp": {
+"bw": 0.18,
+"bx": 0.5,
+"vx": 0.48,
+"vy": 0.58
+},
+"kyoto-gates": {
+"bw": 0.25,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.55
+},
+"lantern-festival": {
+"bw": 0.2,
+"bx": 0.55,
+"vx": 0.47,
+"vy": 0.56
+},
+"laser-hall": {
+"bw": 0.22,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.55
+},
+"light-tunnel": {
+"bw": 0.45,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.62
+},
+"london-mews": {
+"bw": 0.23,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.55
+},
+"lunar": {
+"bw": 0.24,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.56
+},
+"market-marrakech-day": {
+"bw": 0.26,
+"bx": 0.52,
+"vx": 0.5,
+"vy": 0.56
+},
+"mirror-hall": {
+"bw": 0.21,
+"bx": 0.51,
+"vx": 0.5,
+"vy": 0.55
+},
+"moon": {
+"bw": 0.26,
+"bx": 0.5,
+"vx": 0.54,
+"vy": 0.5
+},
+"natural-history": {
+"bw": 0.42,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.5
+},
+"nebula": {
+"bw": 0.4,
+"bx": 0.5,
+"ny": 0.82,
+"vx": 0.5,
+"vy": 0.5
+},
+"neon-alley": {
+"bw": 0.27,
+"bx": 0.5,
+"ny": 0.92,
+"vx": 0.5,
+"vy": 0.47
+},
+"oasis": {
+"bw": 0.2,
+"bx": 0.46,
+"vx": 0.5,
+"vy": 0.45
+},
+"orangery": {
+"bw": 0.25,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.47
+},
+"own-rice-terraces": {
+"bw": 0.16,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.36
+},
+"petra": {
+"bw": 0.25,
+"bx": 0.505,
+"vx": 0.5,
+"vy": 0.56
+},
+"power-station": {
+"bw": 0.225,
+"bx": 0.505,
+"vx": 0.5,
+"vy": 0.53
+},
+"redwoods": {
+"bw": 0.27,
+"bx": 0.49,
+"vx": 0.5,
+"vy": 0.5
+},
+"rooftop-city-dusk": {
+"bw": 0.3,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.5
+},
+"salon-baroque-night": {
+"bw": 0.42,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.46
+},
+"saturn": {
+"bw": 0.27,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.52
+},
+"sculpture-hall": {
+"bw": 0.2,
+"bx": 0.505,
+"vx": 0.5,
+"vy": 0.59
+},
+"shipwreck": {
+"bw": 0.28,
+"bx": 0.51,
+"vx": 0.5,
+"vy": 0.46
+},
+"street-tokyo-neon-night": {
+"bw": 0.4,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.43
+},
+"train-station": {
+"bw": 0.26,
+"bx": 0.48,
+"vx": 0.5,
+"vy": 0.55
+},
+"tulips": {
+"bw": 0.21,
+"bx": 0.5,
+"ny": 0.8,
+"vx": 0.5,
+"vy": 0.36
+},
+"velvet-curtain": {
+"bw": 0.28,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.64
+},
+"venice-palazzo": {
+"bw": 0.2,
+"bx": 0.5,
+"ny": 0.9,
+"vx": 0.5,
+"vy": 0.54
+},
+"versailles-garden": {
+"bw": 0.45,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.42
+},
+"waterfall": {
+"bw": 0.22,
+"bx": 0.49,
+"vx": 0.5,
+"vy": 0.45
+},
+"white-box": {
+"bw": 0.3,
+"bx": 0.5,
+"vx": 0.5,
+"vy": 0.53
+},
+"white-cube": {
+"bw": 0.22,
+"bx": 0.5,
+"vx": 0.55,
+"vy": 0.5
+},
+"winter-palace": {
+"bw": 0.24,
+"bx": 0.495,
+"vx": 0.5,
+"vy": 0.53
+},
+"wisteria": {
+"bw": 0.25,
+"bx": 0.49,
+"vx": 0.5,
+"vy": 0.51
+}
+}
